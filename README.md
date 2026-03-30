@@ -1,1 +1,0 @@
-# grain-bank-mvn
